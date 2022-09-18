@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fixcarbon</string>
+    <string name="appName">FixCarbon</string>
+    <string name="saved_tree_info">Saved Tree Info</string>
+    <string name="add_new_tree">Add New Tree</string>
+    <string name="how_to_use_this_app">How To Use This App</string>
+    <string name="addnewstring">Add New trees</string>
+    <string name="enter_diameter_in_cms">Enter Diameter in cms</string>
+    <string name="enter_plantation_date">Enter Plantation Date</string>
+    <string name="enter_tree_height_in_m">Enter Tree Height in m</string>
+    <string name="enter_tree_species">Enter Tree Species</string>
+    <string name="saved_trees">Saved Trees</string>
+    <string name="get_photo">Get Photo</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="delete_photo">Delete photo</string>
+
+    <!-- Strings for how to use app info -->
+    <string name="step1">1. Open the app</string>
+    <string name="step2">2. Go to add new trees card</string>
+    <string name="step3">3. Add Details of trees</string>
+    <string name="step4">4. Add photo of plant if you want</string>
+    <string name="step5">5. Fetch location using Get Current Location Button</string>
+    <string name="step6">6. Saved Data by clicking on button</string>
+    <string name="step7">7. Now on home screen click on saved trees card to view saved trees</string>
+</resources>
